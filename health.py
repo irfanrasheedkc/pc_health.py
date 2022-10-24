@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env  python3
 import shutil#importing packages
 import psutil
 #this function is used to check disk usage
