@@ -9,7 +9,7 @@ Provides a user-friendly GUI for easy interaction.
 3. Open a terminal or command prompt.
 4. Navigate to the directory containing the script.
 5. Run the script using the following command:
-python pc_health.py
+python pc_healthchcker.py
 6. The GUI window will display your PC's health status.
 7. If CPU usage or disk free space exceeds 50%, the program will print an "error" message.
 
